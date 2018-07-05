@@ -22,6 +22,3 @@ def first_element_with_array(array)
   array.first
 end
 
-def last_element_with_array(array)
-  array.last
-end
