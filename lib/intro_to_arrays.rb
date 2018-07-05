@@ -18,4 +18,4 @@ def last_element(array)
   array[-1]
 end
 
-south_east_asia
+array.first(array)
